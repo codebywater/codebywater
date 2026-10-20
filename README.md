@@ -1,19 +1,82 @@
+<div align="center">
+
 # 🌊 Coder by Water
 
-Делаю open-source инструменты, которые экономят деньги и время: для селлеров маркетплейсов, для личных финансов и для Claude Code.
+**Делаю open-source инструменты, которые экономят деньги и время.**
+Личные финансы и налоги, маркетплейсы, ИИ-агенты для Claude Code, железо.
 
-## Проекты
+[![Профиль](https://img.shields.io/badge/GitHub-codebywater-181717?logo=github)](https://github.com/codebywater)
+[![Проекты](https://img.shields.io/badge/open--source-6_проектов-2f45c8)](https://github.com/codebywater?tab=repositories)
+[![Лицензия](https://img.shields.io/badge/лицензии-MIT_%7C_GPL--3.0-146c43)](#)
 
-| | Проект | Что делает |
-|---|---|---|
-| 🧾 | [**nalog-helper**](https://github.com/codebywater/nalog-helper) | Сколько налогов платить ИП на УСН 6% и самозанятому — по выписке из банка. [Посчитать онлайн →](https://codebywater.github.io/nalog-helper/) |
-| 💸 | [**subscription-hunter**](https://github.com/codebywater/subscription-hunter) | Находит забытые подписки в банковской выписке. [Попробовать онлайн →](https://codebywater.github.io/subscription-hunter/) |
-| 🛒 | [**WB-OZON-AI-TEAM**](https://github.com/codebywater/WB-OZON-AI-TEAM) | ИИ-команда для селлеров Wildberries и Ozon: юнит-экономика, отзывы, карточки |
-| 💌 | [**Our-Private-Universe**](https://github.com/codebywater/Our-Private-Universe) | Приватный архив воспоминаний для двоих (Next.js + Supabase). [Демо →](https://codebywater.github.io/Our-Private-Universe/) |
-| 📦 | [**Poizon-parsing**](https://github.com/codebywater/Poizon-parsing) | Сбор цен и размеров из приложения Dewu/Poizon в CSV/Excel |
-| 🐬 | [**Flipper-os-**](https://github.com/codebywater/Flipper-os-) | Кастомная прошивка Flipper Zero на базе Unleashed |
+</div>
 
-## Стек
-Python · TypeScript · Next.js · Supabase · C · Claude Code
+---
 
-⭐ Если что-то пригодилось, поставьте звезду, это очень помогает.
+## 👋 Обо мне
+
+- 🛠 Пишу инструменты, которыми пользуюсь сам: от калькулятора налогов до прошивки для Flipper Zero.
+- 🔒 Люблю, когда данные пользователя **не уходят в интернет**. Многие мои веб-версии работают целиком в браузере, и это закреплено политикой безопасности страницы.
+- 🤖 Собираю ИИ-агентов и скиллы для **Claude Code**, Codex и Cursor, которые решают реальные бизнес-задачи на русском.
+- ✅ В каждом проекте есть тесты и CI, README на русском и краткое описание на английском.
+- 🌱 Сейчас развиваю **nalog-helper**: добавляю УСН 15% и выгрузку календаря платежей.
+
+## 🚀 Проекты
+
+### 💸 Деньги и налоги
+
+**[nalog-helper](https://github.com/codebywater/nalog-helper)** · [▶ Посчитать онлайн](https://codebywater.github.io/nalog-helper/)
+Сколько налогов платить ИП на УСН 6% и самозанятому, по выписке из банка. Находит доход, считает налог и взносы, строит календарь платежей, предупреждает о лимитах и сравнивает режимы.
+`JavaScript` · `без зависимостей` · `данные не покидают браузер`
+
+**[subscription-hunter](https://github.com/codebywater/subscription-hunter)** · [▶ Проверить выписку](https://codebywater.github.io/subscription-hunter/)
+Находит забытые подписки и автосписания в банковской выписке, считает, сколько уходит в месяц и в год, и подсказывает, как отменить. Есть веб-версия, CLI и Claude-скилл.
+`Python` · `JavaScript` · `Claude Code plugin`
+
+### 🛒 Маркетплейсы
+
+**[WB-OZON-AI-TEAM](https://github.com/codebywater/WB-OZON-AI-TEAM)**
+ИИ-команда для селлеров Wildberries и Ozon: 12 скиллов, которые считают юнит-экономику, следят за ценами конкурентов, делают карточки и ТЗ на инфографику, отвечают на отзывы и вопросы покупателей.
+`Claude Code` · `Codex` · `Cursor` · `Python`
+
+**[Poizon-parsing](https://github.com/codebywater/Poizon-parsing)**
+Собирает из приложения Dewu (Poizon) цены по каждому размеру, артикулы, варианты доставки и таблицы размеров через автоматизацию интерфейса на настоящем телефоне. Экспорт в CSV и Excel.
+`Python` · `uiautomator2` · `Appium`
+
+### 💌 Веб-приложения
+
+**[Our-Private-Universe](https://github.com/codebywater/Our-Private-Universe)** · [▶ Демо](https://codebywater.github.io/Our-Private-Universe/)
+Приватный архив воспоминаний для двоих: фото, таймлайн и письма, которые открываются в назначенную дату. Замок по времени работает на уровне базы данных (Postgres RLS), а не только в интерфейсе.
+`Next.js` · `TypeScript` · `Supabase` · `Tailwind`
+
+### 🐬 Железо
+
+**[Flipper-os-](https://github.com/codebywater/Flipper-os-)**
+Кастомная прошивка Flipper Zero на базе Unleashed: собственное меню Flipper OS Toolkit, анимация на рабочем столе и Patrol, журнал обходов с защитой записей через HMAC. Сборка и релизы через GitHub Actions.
+`C` · `Flipper Zero` · `GitHub Actions`
+
+## 🧰 Стек
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white)
+
+## 🤝 Как помочь
+
+- ⭐ Поставьте звезду проекту, который пригодился: так его проще найти другим.
+- 🐛 Нашли ошибку или неверную цифру в расчётах? Откройте issue в нужном репозитории.
+- 🔧 Pull request'ы приветствуются. В каждом проекте есть инструкция, как запустить тесты.
+
+<div align="center">
+
+*Turning ideas into code, one line at a time.* 🌊
+
+</div>
