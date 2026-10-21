@@ -6,7 +6,7 @@
 Личные финансы и налоги, маркетплейсы, ИИ-агенты для Claude Code, железо.
 
 [![Профиль](https://img.shields.io/badge/GitHub-codebywater-181717?logo=github)](https://github.com/codebywater)
-[![Проекты](https://img.shields.io/badge/open--source-7_проектов-2f45c8)](https://github.com/codebywater?tab=repositories)
+[![Проекты](https://img.shields.io/badge/open--source-8_проектов-2f45c8)](https://github.com/codebywater?tab=repositories)
 [![Лицензия](https://img.shields.io/badge/лицензии-MIT_%7C_GPL--3.0-146c43)](#)
 
 </div>
@@ -41,6 +41,10 @@
 **[subscription-hunter](https://github.com/codebywater/subscription-hunter)** · [▶ Проверить выписку](https://codebywater.github.io/subscription-hunter/)
 Находит забытые подписки и автосписания в банковской выписке, считает, сколько уходит в месяц и в год, и подсказывает, как отменить. Есть веб-версия, CLI и Claude-скилл.
 `Python` · `JavaScript` · `Claude Code plugin`
+
+**[money-wrapped](https://github.com/codebywater/money-wrapped)** · [▶ Посмотреть свой год](https://codebywater.github.io/money-wrapped/)
+«Мой год в деньгах»: итоги года по банковской выписке в стиле Spotify Wrapped. Сторис о том, на что ушли деньги, любимое место, самый дорогой день, доставка в шавермах и ваш финансовый тип, плюс картинка для соцсетей.
+`JavaScript` · `Canvas` · `данные не покидают браузер`
 
 ### 🛒 Маркетплейсы
 
