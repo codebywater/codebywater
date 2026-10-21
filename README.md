@@ -6,7 +6,7 @@
 Личные финансы и налоги, маркетплейсы, ИИ-агенты для Claude Code, железо.
 
 [![Профиль](https://img.shields.io/badge/GitHub-codebywater-181717?logo=github)](https://github.com/codebywater)
-[![Проекты](https://img.shields.io/badge/open--source-8_проектов-2f45c8)](https://github.com/codebywater?tab=repositories)
+[![Проекты](https://img.shields.io/badge/open--source-9_проектов-2f45c8)](https://github.com/codebywater?tab=repositories)
 ![Лицензия](https://img.shields.io/badge/лицензии-MIT_%7C_GPL--3.0-146c43)
 
 </div>
@@ -63,6 +63,10 @@
 `Next.js` · `TypeScript` · `Supabase` · `Tailwind`
 
 ### 🛠 Для разработчиков
+
+**[vypiska](https://github.com/codebywater/vypiska)** · [▶ Проверить свою выписку](https://codebywater.github.io/vypiska/)\
+Библиотека разбора CSV-выписок российских банков (Сбер, Т-Банк, Альфа, ВТБ, выписки 1С) в единый список операций: суммы в рублях счёта, отклонённые операции, кодировки, ничего не теряется молча. На ней работает money-wrapped.\
+`JavaScript` · `без зависимостей` · `браузер и Node`
 
 **[github-city](https://github.com/codebywater/github-city)**\
 Изометрический город из репозиториев для README профиля: высота дома — число коммитов, цвет — язык, днём солнце, ночью горят окна. Подключается как GitHub Action; город выше на этой странице нарисован им.\
