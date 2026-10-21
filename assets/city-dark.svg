@@ -1,51 +1,51 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="522" height="533" viewBox="0 0 522 533" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" role="img" aria-labelledby="city-title">
-<title id="city-title">Город репозиториев codebywater: 7 домов, 69 коммитов</title>
+<title id="city-title">Город репозиториев codebywater: 8 домов, 70 коммитов</title>
 <defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#05070d"/><stop offset="1" stop-color="#131a2a"/></linearGradient>
 <style>.lbl{font-size:11px;font-weight:600;fill:#e6edf3;paint-order:stroke;stroke:#0d1117;stroke-width:3px;stroke-linejoin:round}.cnt{font-size:10px;font-weight:500;fill:#9198a1}@keyframes blink{0%,100%{opacity:1}50%{opacity:.35}}.on{animation:blink 4s ease-in-out infinite}.tw{animation:blink 3s ease-in-out infinite}@media (prefers-reduced-motion:reduce){.on,.tw{animation:none}}</style></defs>
 <rect width="100%" height="100%" rx="12" fill="url(#sky)"/>
-<circle class="tw" style="animation-delay:2.4s" cx="404.8" cy="53.3" r="0.5" fill="#ffffff" opacity="0.8"/>
-<circle class="" style="animation-delay:1.8s" cx="25" cy="84.7" r="0.6" fill="#ffffff" opacity="0.6"/>
-<circle class="" style="animation-delay:2.6s" cx="6.4" cy="186.8" r="0.7" fill="#ffffff" opacity="0.3"/>
-<circle class="tw" style="animation-delay:1.1s" cx="331.1" cy="122" r="1.4" fill="#ffffff" opacity="0.6"/>
-<circle class="" style="animation-delay:0.2s" cx="185.1" cy="194.8" r="1" fill="#ffffff" opacity="0.6"/>
-<circle class="" style="animation-delay:2.1s" cx="494.6" cy="4.1" r="1.5" fill="#ffffff" opacity="0.3"/>
-<circle class="tw" style="animation-delay:2.8s" cx="170.6" cy="184" r="0.6" fill="#ffffff" opacity="0.5"/>
-<circle class="" style="animation-delay:0.8s" cx="27.5" cy="165.3" r="1" fill="#ffffff" opacity="0.3"/>
-<circle class="" style="animation-delay:2.6s" cx="145.5" cy="87" r="1.5" fill="#ffffff" opacity="0.3"/>
-<circle class="tw" style="animation-delay:1.6s" cx="270.9" cy="203.5" r="1.2" fill="#ffffff" opacity="0.5"/>
-<circle class="" style="animation-delay:2.7s" cx="390.4" cy="243.9" r="0.9" fill="#ffffff" opacity="0.3"/>
-<circle class="" style="animation-delay:1.8s" cx="41.6" cy="71.2" r="1.4" fill="#ffffff" opacity="0.6"/>
-<circle class="tw" style="animation-delay:2.8s" cx="345.6" cy="60.4" r="0.9" fill="#ffffff" opacity="0.4"/>
-<circle class="" style="animation-delay:2s" cx="337.4" cy="95.6" r="0.7" fill="#ffffff" opacity="0.5"/>
-<circle class="" style="animation-delay:1.2s" cx="164.4" cy="226.3" r="0.7" fill="#ffffff" opacity="0.6"/>
-<circle class="tw" style="animation-delay:2.7s" cx="321.7" cy="126.5" r="1.4" fill="#ffffff" opacity="0.9"/>
-<circle class="" style="animation-delay:0.7s" cx="38.1" cy="179.8" r="0.7" fill="#ffffff" opacity="0.3"/>
-<circle class="" style="animation-delay:2.7s" cx="308.4" cy="164.6" r="1.2" fill="#ffffff" opacity="0.5"/>
-<circle class="tw" style="animation-delay:0.6s" cx="67.1" cy="73.3" r="0.6" fill="#ffffff" opacity="0.7"/>
-<circle class="" style="animation-delay:1.4s" cx="321.1" cy="186.3" r="1" fill="#ffffff" opacity="0.4"/>
-<circle class="" style="animation-delay:2.6s" cx="501.4" cy="146" r="1.3" fill="#ffffff" opacity="0.4"/>
-<circle class="tw" style="animation-delay:0.6s" cx="318.3" cy="169.4" r="1.5" fill="#ffffff" opacity="0.9"/>
-<circle class="" style="animation-delay:1s" cx="144.8" cy="121.7" r="1.4" fill="#ffffff" opacity="0.5"/>
-<circle class="" style="animation-delay:2.2s" cx="196.1" cy="215.4" r="0.7" fill="#ffffff" opacity="0.9"/>
-<circle class="tw" style="animation-delay:2.2s" cx="395.2" cy="234.2" r="1.4" fill="#ffffff" opacity="0.7"/>
-<circle class="" style="animation-delay:0.3s" cx="46.1" cy="213.5" r="1.3" fill="#ffffff" opacity="0.7"/>
-<circle class="" style="animation-delay:2.4s" cx="454.8" cy="127.2" r="1.5" fill="#ffffff" opacity="0.6"/>
-<circle class="tw" style="animation-delay:1.6s" cx="209.4" cy="67.8" r="1.3" fill="#ffffff" opacity="0.4"/>
-<circle class="" style="animation-delay:2.6s" cx="333.4" cy="15.5" r="0.8" fill="#ffffff" opacity="0.4"/>
-<circle class="" style="animation-delay:2.2s" cx="18.8" cy="62.3" r="1" fill="#ffffff" opacity="0.7"/>
-<circle class="tw" style="animation-delay:0.9s" cx="223.4" cy="200" r="0.9" fill="#ffffff" opacity="0.6"/>
-<circle class="" style="animation-delay:0.2s" cx="145.8" cy="74.7" r="0.8" fill="#ffffff" opacity="0.8"/>
-<circle class="" style="animation-delay:1.3s" cx="457.1" cy="147.3" r="1.1" fill="#ffffff" opacity="0.6"/>
-<circle class="tw" style="animation-delay:2.4s" cx="474.5" cy="214.7" r="1.4" fill="#ffffff" opacity="0.6"/>
-<circle class="" style="animation-delay:1.4s" cx="408.5" cy="34.1" r="1.1" fill="#ffffff" opacity="0.5"/>
-<circle class="" style="animation-delay:1.9s" cx="25.1" cy="181.9" r="1.4" fill="#ffffff" opacity="0.5"/>
-<circle class="tw" style="animation-delay:2.5s" cx="224.4" cy="122.2" r="1.3" fill="#ffffff" opacity="0.8"/>
-<circle class="" style="animation-delay:2.1s" cx="237.2" cy="11.7" r="0.9" fill="#ffffff" opacity="0.5"/>
-<circle class="" style="animation-delay:1s" cx="334.7" cy="146.8" r="1.3" fill="#ffffff" opacity="0.5"/>
-<circle class="tw" style="animation-delay:1.5s" cx="455" cy="124.2" r="0.7" fill="#ffffff" opacity="0.8"/>
+<circle class="tw" style="animation-delay:1.1s" cx="318.4" cy="165.7" r="1.3" fill="#ffffff" opacity="0.3"/>
+<circle class="" style="animation-delay:0.2s" cx="480.1" cy="129.4" r="1.5" fill="#ffffff" opacity="0.4"/>
+<circle class="" style="animation-delay:2.9s" cx="487.7" cy="86.9" r="0.9" fill="#ffffff" opacity="0.4"/>
+<circle class="tw" style="animation-delay:2.2s" cx="176" cy="121.9" r="1.2" fill="#ffffff" opacity="0.3"/>
+<circle class="" style="animation-delay:1.9s" cx="412.1" cy="97.7" r="1.3" fill="#ffffff" opacity="0.5"/>
+<circle class="" style="animation-delay:1.4s" cx="186.1" cy="23.5" r="0.5" fill="#ffffff" opacity="0.4"/>
+<circle class="tw" style="animation-delay:0.4s" cx="436.5" cy="11.2" r="0.6" fill="#ffffff" opacity="0.6"/>
+<circle class="" style="animation-delay:0.4s" cx="243.9" cy="141.1" r="1.3" fill="#ffffff" opacity="0.4"/>
+<circle class="" style="animation-delay:0.1s" cx="146" cy="88.6" r="0.7" fill="#ffffff" opacity="0.9"/>
+<circle class="tw" style="animation-delay:2s" cx="266.5" cy="111.7" r="1.2" fill="#ffffff" opacity="0.7"/>
+<circle class="" style="animation-delay:2s" cx="380.3" cy="45.8" r="1.3" fill="#ffffff" opacity="0.5"/>
+<circle class="" style="animation-delay:1.7s" cx="213.4" cy="13.6" r="1.3" fill="#ffffff" opacity="0.7"/>
+<circle class="tw" style="animation-delay:1.5s" cx="384.7" cy="184.3" r="1.1" fill="#ffffff" opacity="0.7"/>
+<circle class="" style="animation-delay:1.7s" cx="245.1" cy="227.1" r="1.5" fill="#ffffff" opacity="0.7"/>
+<circle class="" style="animation-delay:2.3s" cx="305.1" cy="223.9" r="1" fill="#ffffff" opacity="0.8"/>
+<circle class="tw" style="animation-delay:2.2s" cx="439.4" cy="72.6" r="0.7" fill="#ffffff" opacity="0.8"/>
+<circle class="" style="animation-delay:2.1s" cx="169.2" cy="107.9" r="1" fill="#ffffff" opacity="0.6"/>
+<circle class="" style="animation-delay:2.8s" cx="394" cy="82.2" r="0.6" fill="#ffffff" opacity="0.7"/>
+<circle class="tw" style="animation-delay:0.6s" cx="168.7" cy="33.4" r="0.8" fill="#ffffff" opacity="0.7"/>
+<circle class="" style="animation-delay:1s" cx="487.1" cy="111" r="0.8" fill="#ffffff" opacity="0.5"/>
+<circle class="" style="animation-delay:0.1s" cx="411.5" cy="122.3" r="1.2" fill="#ffffff" opacity="0.6"/>
+<circle class="tw" style="animation-delay:2.6s" cx="215.9" cy="107.8" r="1.1" fill="#ffffff" opacity="0.5"/>
+<circle class="" style="animation-delay:0.4s" cx="116.7" cy="13.4" r="1" fill="#ffffff" opacity="0.5"/>
+<circle class="" style="animation-delay:2s" cx="318.9" cy="110.5" r="1" fill="#ffffff" opacity="0.8"/>
+<circle class="tw" style="animation-delay:2.6s" cx="514.4" cy="134.7" r="0.7" fill="#ffffff" opacity="0.6"/>
+<circle class="" style="animation-delay:2.8s" cx="448.7" cy="111.6" r="0.8" fill="#ffffff" opacity="0.4"/>
+<circle class="" style="animation-delay:1.5s" cx="31" cy="239.8" r="0.7" fill="#ffffff" opacity="0.7"/>
+<circle class="tw" style="animation-delay:1.1s" cx="434.1" cy="21.8" r="1.2" fill="#ffffff" opacity="0.8"/>
+<circle class="" style="animation-delay:1.5s" cx="345.7" cy="184.8" r="0.5" fill="#ffffff" opacity="0.6"/>
+<circle class="" style="animation-delay:2.8s" cx="156.5" cy="165.2" r="0.9" fill="#ffffff" opacity="0.8"/>
+<circle class="tw" style="animation-delay:1.1s" cx="147.9" cy="88.7" r="0.7" fill="#ffffff" opacity="0.4"/>
+<circle class="" style="animation-delay:0.7s" cx="405.9" cy="223.4" r="1.2" fill="#ffffff" opacity="0.6"/>
+<circle class="" style="animation-delay:0.8s" cx="36" cy="44.1" r="0.9" fill="#ffffff" opacity="0.7"/>
+<circle class="tw" style="animation-delay:2.2s" cx="102.5" cy="45.2" r="0.6" fill="#ffffff" opacity="0.5"/>
+<circle class="" style="animation-delay:1s" cx="272.4" cy="117.8" r="0.6" fill="#ffffff" opacity="0.8"/>
+<circle class="" style="animation-delay:2.4s" cx="438.7" cy="194" r="1.4" fill="#ffffff" opacity="0.4"/>
+<circle class="tw" style="animation-delay:2.6s" cx="278.9" cy="41" r="0.9" fill="#ffffff" opacity="0.5"/>
+<circle class="" style="animation-delay:2.3s" cx="3.9" cy="93.7" r="1.2" fill="#ffffff" opacity="0.9"/>
+<circle class="" style="animation-delay:1.8s" cx="329.2" cy="107.4" r="0.6" fill="#ffffff" opacity="0.9"/>
+<circle class="tw" style="animation-delay:2.6s" cx="450.5" cy="168.7" r="0.6" fill="#ffffff" opacity="0.7"/>
 <circle cx="471.6" cy="50" r="16" fill="#f4f1de"/><circle cx="478.6" cy="45" r="14" fill="#05070d"/>
 <text x="24" y="34" font-size="18" font-weight="700" fill="#e6edf3">codebywater</text>
-<text x="24" y="54" font-size="12" fill="#9198a1">7 репозиториев · 69 коммитов</text>
+<text x="24" y="54" font-size="12" fill="#9198a1">8 репозиториев · 70 коммитов</text>
 <polygon points="40,374.4 260.8,484.8 260.8,494.8 40,384.4" fill="#0f141d"/>
 <polygon points="481.6,374.4 260.8,484.8 260.8,494.8 481.6,384.4" fill="#0d1119"/>
 <polygon points="260.8,264 481.6,374.4 260.8,484.8 40,374.4" fill="#232c3b"/>
@@ -56,7 +56,7 @@
 <polygon points="113.6,345.9 170.6,374.4 113.6,402.9 56.6,374.4" fill="#2a3445"/>
 <polygon points="408,345.9 465,374.4 408,402.9 351,374.4" fill="#2a3445"/>
 <polygon points="187.2,382.7 244.2,411.2 187.2,439.7 130.2,411.2" fill="#2a3445"/>
-<polygon points="334.4,382.7 391.4,411.2 334.4,439.7 277.4,411.2" fill="#153721"/>
+<polygon points="334.4,382.7 391.4,411.2 334.4,439.7 277.4,411.2" fill="#2a3445"/>
 <polygon points="260.8,419.5 317.8,448 260.8,476.5 203.8,448" fill="#153721"/>
 <g><title>flipper-os: 21 коммит, C</title>
 <polygon points="217.1,300.8 260.8,322.7 260.8,150.6 217.1,128.8" fill="#535961"/>
@@ -300,12 +300,6 @@
 <polygon points="417.6,316.4 426.4,312.1 426.4,306.1 417.6,310.4" fill="#2b3446" opacity="1"/>
 <polygon points="433.3,308.6 442.1,304.2 442.1,298.2 433.3,302.6" fill="#ffd866" opacity="1"/>
 </g>
-<rect x="322.4" y="399.2" width="3" height="6" fill="#5c4632"/>
-<polygon points="323.9,380.1 330.9,400.2 323.9,402.2" fill="#215a35"/>
-<polygon points="323.9,380.1 316.9,400.2 323.9,402.2" fill="#2f7a49"/>
-<rect x="333.5" y="399.9" width="3" height="6" fill="#5c4632"/>
-<polygon points="335,382.3 342,400.9 335,402.9" fill="#215a35"/>
-<polygon points="335,382.3 328,400.9 335,402.9" fill="#2f7a49"/>
 <g><title>github-city: 1 коммит, JavaScript</title>
 <polygon points="143.5,411.2 187.2,433.1 187.2,378.3 143.5,356.5" fill="#b5a844"/>
 <polygon points="187.2,433.1 230.9,411.2 230.9,356.5 187.2,378.3" fill="#79702d"/>
@@ -323,18 +317,32 @@
 <polygon class="on" style="animation-delay:1.9s" points="196.8,392.2 205.6,387.9 205.6,381.9 196.8,386.2" fill="#ffd866" opacity="1"/>
 <polygon points="212.5,384.4 221.3,380 221.3,374 212.5,378.4" fill="#2b3446" opacity="1"/>
 </g>
-<rect x="336.6" y="422.6" width="3" height="6" fill="#5c4632"/>
-<polygon points="338.1,403.9 345.1,423.6 338.1,425.6" fill="#215a35"/>
-<polygon points="338.1,403.9 331.1,423.6 338.1,425.6" fill="#2f7a49"/>
-<rect x="292.6" y="441.2" width="3" height="6" fill="#5c4632"/>
-<polygon points="294.1,419 301.1,442.2 294.1,444.2" fill="#215a35"/>
-<polygon points="294.1,419 287.1,442.2 294.1,444.2" fill="#2f7a49"/>
-<rect x="274.6" y="452.2" width="3" height="6" fill="#5c4632"/>
-<polygon points="276.1,436.5 283.1,453.2 276.1,455.2" fill="#215a35"/>
-<polygon points="276.1,436.5 269.1,453.2 276.1,455.2" fill="#2f7a49"/>
-<rect x="269" y="454.6" width="3" height="6" fill="#5c4632"/>
-<polygon points="270.5,435.7 277.5,455.6 270.5,457.6" fill="#215a35"/>
-<polygon points="270.5,435.7 263.5,455.6 270.5,457.6" fill="#2f7a49"/>
+<g><title>money-wrapped: 1 коммит, JavaScript</title>
+<polygon points="290.7,411.2 334.4,433.1 334.4,378.3 290.7,356.5" fill="#b5a844"/>
+<polygon points="334.4,433.1 378.1,411.2 378.1,356.5 334.4,378.3" fill="#79702d"/>
+<polygon points="334.4,334.6 378.1,356.5 334.4,378.3 290.7,356.5" fill="#f5e98c"/>
+<polygon points="300.3,406 309.1,410.4 309.1,404.4 300.3,400" fill="#2b3446" opacity="1"/>
+<polygon points="316,413.9 324.8,418.2 324.8,412.2 316,407.9" fill="#2b3446" opacity="1"/>
+<polygon points="344,418.2 352.8,413.9 352.8,407.9 344,412.2" fill="#ffd866" opacity="1"/>
+<polygon points="359.7,410.4 368.5,406 368.5,400 359.7,404.4" fill="#2b3446" opacity="1"/>
+<polygon points="300.3,393 309.1,397.4 309.1,391.4 300.3,387" fill="#2b3446" opacity="1"/>
+<polygon points="316,400.9 324.8,405.2 324.8,399.2 316,394.9" fill="#2b3446" opacity="1"/>
+<polygon points="344,405.2 352.8,400.9 352.8,394.9 344,399.2" fill="#ffd866" opacity="1"/>
+<polygon points="359.7,397.4 368.5,393 368.5,387 359.7,391.4" fill="#2b3446" opacity="1"/>
+<polygon points="300.3,380 309.1,384.4 309.1,378.4 300.3,374" fill="#ffd866" opacity="1"/>
+<polygon points="316,387.9 324.8,392.2 324.8,386.2 316,381.9" fill="#2b3446" opacity="1"/>
+<polygon class="on" style="animation-delay:3s" points="344,392.2 352.8,387.9 352.8,381.9 344,386.2" fill="#ffd866" opacity="1"/>
+<polygon points="359.7,384.4 368.5,380 368.5,374 359.7,378.4" fill="#ffd866" opacity="1"/>
+</g>
+<rect x="271.2" y="431.7" width="3" height="6" fill="#5c4632"/>
+<polygon points="272.7,416.7 279.7,432.7 272.7,434.7" fill="#215a35"/>
+<polygon points="272.7,416.7 265.7,432.7 272.7,434.7" fill="#2f7a49"/>
+<rect x="282.8" y="450" width="3" height="6" fill="#5c4632"/>
+<polygon points="284.3,433.7 291.3,451 284.3,453" fill="#215a35"/>
+<polygon points="284.3,433.7 277.3,451 284.3,453" fill="#2f7a49"/>
+<rect x="252" y="459.7" width="3" height="6" fill="#5c4632"/>
+<polygon points="253.5,441.8 260.5,460.7 253.5,462.7" fill="#215a35"/>
+<polygon points="253.5,441.8 246.5,460.7 253.5,462.7" fill="#2f7a49"/>
 <text class="lbl" x="260.8" y="112.8" text-anchor="middle">flipper-os</text>
 <text class="lbl cnt" x="260.8" y="124.8" text-anchor="middle">21 коммит</text>
 <text class="lbl" x="187.2" y="172.8" text-anchor="middle">Poizon-parsing</text>
@@ -349,4 +357,6 @@
 <text class="lbl cnt" x="408" y="282.9" text-anchor="middle">4 коммита</text>
 <text class="lbl" x="187.2" y="340.5" text-anchor="middle">github-city</text>
 <text class="lbl cnt" x="187.2" y="352.5" text-anchor="middle">1 коммит</text>
+<text class="lbl" x="334.4" y="340.5" text-anchor="middle">money-wrapped</text>
+<text class="lbl cnt" x="334.4" y="352.5" text-anchor="middle">1 коммит</text>
 </svg>
