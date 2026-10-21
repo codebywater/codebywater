@@ -11,3 +11,5 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: codebywater/github-city@v1
+        with:
+          lang: ru
