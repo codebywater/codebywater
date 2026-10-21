@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="522" height="533" viewBox="0 0 522 533" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" role="img" aria-labelledby="city-title">
-<title id="city-title">Город репозиториев codebywater: 8 домов, 70 коммитов</title>
+<title id="city-title">Город репозиториев codebywater: 8 домов, 77 коммитов</title>
 <defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#05070d"/><stop offset="1" stop-color="#131a2a"/></linearGradient>
 <style>.lbl{font-size:11px;font-weight:600;fill:#e6edf3;paint-order:stroke;stroke:#0d1117;stroke-width:3px;stroke-linejoin:round}.cnt{font-size:10px;font-weight:500;fill:#9198a1}@keyframes blink{0%,100%{opacity:1}50%{opacity:.35}}.on{animation:blink 4s ease-in-out infinite}.tw{animation:blink 3s ease-in-out infinite}@media (prefers-reduced-motion:reduce){.on,.tw{animation:none}}</style></defs>
 <rect width="100%" height="100%" rx="12" fill="url(#sky)"/>
@@ -45,7 +45,7 @@
 <circle class="tw" style="animation-delay:2.6s" cx="450.5" cy="168.7" r="0.6" fill="#ffffff" opacity="0.7"/>
 <circle cx="471.6" cy="50" r="16" fill="#f4f1de"/><circle cx="478.6" cy="45" r="14" fill="#05070d"/>
 <text x="24" y="34" font-size="18" font-weight="700" fill="#e6edf3">codebywater</text>
-<text x="24" y="54" font-size="12" fill="#9198a1">8 репозиториев · 70 коммитов</text>
+<text x="24" y="54" font-size="12" fill="#9198a1">8 репозиториев · 77 коммитов</text>
 <polygon points="40,374.4 260.8,484.8 260.8,494.8 40,384.4" fill="#0f141d"/>
 <polygon points="481.6,374.4 260.8,484.8 260.8,494.8 481.6,384.4" fill="#0d1119"/>
 <polygon points="260.8,264 481.6,374.4 260.8,484.8 40,374.4" fill="#232c3b"/>
@@ -58,7 +58,7 @@
 <polygon points="187.2,382.7 244.2,411.2 187.2,439.7 130.2,411.2" fill="#2a3445"/>
 <polygon points="334.4,382.7 391.4,411.2 334.4,439.7 277.4,411.2" fill="#2a3445"/>
 <polygon points="260.8,419.5 317.8,448 260.8,476.5 203.8,448" fill="#153721"/>
-<g><title>flipper-os: 21 коммит, C</title>
+<g><title>flipper-os: 22 коммита, C</title>
 <polygon points="217.1,300.8 260.8,322.7 260.8,150.6 217.1,128.8" fill="#535961"/>
 <polygon points="260.8,322.7 304.5,300.8 304.5,128.8 260.8,150.6" fill="#373b41"/>
 <polygon points="260.8,107 304.5,128.8 260.8,150.6 217.1,128.8" fill="#9a9fa7"/>
@@ -111,100 +111,104 @@
 <polygon class="on" style="animation-delay:1.8s" points="270.4,164.8 279.2,160.5 279.2,154.5 270.4,158.8" fill="#ffd866" opacity="1"/>
 <polygon points="286.1,157 294.9,152.6 294.9,146.6 286.1,151" fill="#2b3446" opacity="1"/>
 </g>
-<g><title>Poizon-parsing: 15 коммитов, Python</title>
-<polygon points="143.5,337.6 187.2,359.5 187.2,210.7 143.5,188.8" fill="#28567c"/>
-<polygon points="187.2,359.5 230.9,337.6 230.9,188.8 187.2,210.7" fill="#1b3953"/>
-<polygon points="187.2,167 230.9,188.8 187.2,210.7 143.5,188.8" fill="#729cc0"/>
-<polygon points="153.1,332.4 161.9,336.8 161.9,330.8 153.1,326.4" fill="#ffd866" opacity="1"/>
-<polygon points="168.8,340.3 177.6,344.6 177.6,338.6 168.8,334.3" fill="#ffd866" opacity="1"/>
-<polygon points="196.8,344.6 205.6,340.3 205.6,334.3 196.8,338.6" fill="#2b3446" opacity="1"/>
-<polygon points="212.5,336.8 221.3,332.4 221.3,326.4 212.5,330.8" fill="#2b3446" opacity="1"/>
+<g><title>WB-OZON-AI-TEAM: 17 коммитов, Python</title>
+<polygon points="143.5,337.6 187.2,359.5 187.2,205.6 143.5,183.7" fill="#28567c"/>
+<polygon points="187.2,359.5 230.9,337.6 230.9,183.7 187.2,205.6" fill="#1b3953"/>
+<polygon points="187.2,161.9 230.9,183.7 187.2,205.6 143.5,183.7" fill="#729cc0"/>
+<polygon points="153.1,332.4 161.9,336.8 161.9,330.8 153.1,326.4" fill="#2b3446" opacity="1"/>
+<polygon points="168.8,340.3 177.6,344.6 177.6,338.6 168.8,334.3" fill="#2b3446" opacity="1"/>
+<polygon class="on" style="animation-delay:0.9s" points="196.8,344.6 205.6,340.3 205.6,334.3 196.8,338.6" fill="#ffd866" opacity="1"/>
+<polygon points="212.5,336.8 221.3,332.4 221.3,326.4 212.5,330.8" fill="#ffd866" opacity="1"/>
 <polygon points="153.1,319.4 161.9,323.8 161.9,317.8 153.1,313.4" fill="#ffd866" opacity="1"/>
-<polygon points="168.8,327.3 177.6,331.6 177.6,325.6 168.8,321.3" fill="#ffd866" opacity="1"/>
-<polygon points="196.8,331.6 205.6,327.3 205.6,321.3 196.8,325.6" fill="#2b3446" opacity="1"/>
+<polygon points="168.8,327.3 177.6,331.6 177.6,325.6 168.8,321.3" fill="#2b3446" opacity="1"/>
+<polygon class="on" style="animation-delay:1.9s" points="196.8,331.6 205.6,327.3 205.6,321.3 196.8,325.6" fill="#ffd866" opacity="1"/>
 <polygon points="212.5,323.8 221.3,319.4 221.3,313.4 212.5,317.8" fill="#2b3446" opacity="1"/>
-<polygon class="on" style="animation-delay:3.9s" points="153.1,306.4 161.9,310.8 161.9,304.8 153.1,300.4" fill="#ffd866" opacity="1"/>
-<polygon class="on" style="animation-delay:1.5s" points="168.8,314.3 177.6,318.6 177.6,312.6 168.8,308.3" fill="#ffd866" opacity="1"/>
-<polygon points="196.8,318.6 205.6,314.3 205.6,308.3 196.8,312.6" fill="#2b3446" opacity="1"/>
-<polygon points="212.5,310.8 221.3,306.4 221.3,300.4 212.5,304.8" fill="#2b3446" opacity="1"/>
+<polygon points="153.1,306.4 161.9,310.8 161.9,304.8 153.1,300.4" fill="#2b3446" opacity="1"/>
+<polygon points="168.8,314.3 177.6,318.6 177.6,312.6 168.8,308.3" fill="#ffd866" opacity="1"/>
+<polygon points="196.8,318.6 205.6,314.3 205.6,308.3 196.8,312.6" fill="#ffd866" opacity="1"/>
+<polygon points="212.5,310.8 221.3,306.4 221.3,300.4 212.5,304.8" fill="#ffd866" opacity="1"/>
 <polygon points="153.1,293.4 161.9,297.8 161.9,291.8 153.1,287.4" fill="#2b3446" opacity="1"/>
 <polygon points="168.8,301.3 177.6,305.6 177.6,299.6 168.8,295.3" fill="#2b3446" opacity="1"/>
 <polygon points="196.8,305.6 205.6,301.3 205.6,295.3 196.8,299.6" fill="#2b3446" opacity="1"/>
-<polygon points="212.5,297.8 221.3,293.4 221.3,287.4 212.5,291.8" fill="#ffd866" opacity="1"/>
-<polygon points="153.1,280.4 161.9,284.8 161.9,278.8 153.1,274.4" fill="#ffd866" opacity="1"/>
-<polygon points="168.8,288.3 177.6,292.6 177.6,286.6 168.8,282.3" fill="#2b3446" opacity="1"/>
+<polygon points="212.5,297.8 221.3,293.4 221.3,287.4 212.5,291.8" fill="#2b3446" opacity="1"/>
+<polygon points="153.1,280.4 161.9,284.8 161.9,278.8 153.1,274.4" fill="#2b3446" opacity="1"/>
+<polygon class="on" style="animation-delay:0.6s" points="168.8,288.3 177.6,292.6 177.6,286.6 168.8,282.3" fill="#ffd866" opacity="1"/>
 <polygon points="196.8,292.6 205.6,288.3 205.6,282.3 196.8,286.6" fill="#2b3446" opacity="1"/>
 <polygon points="212.5,284.8 221.3,280.4 221.3,274.4 212.5,278.8" fill="#ffd866" opacity="1"/>
 <polygon points="153.1,267.4 161.9,271.8 161.9,265.8 153.1,261.4" fill="#2b3446" opacity="1"/>
-<polygon points="168.8,275.3 177.6,279.6 177.6,273.6 168.8,269.3" fill="#ffd866" opacity="1"/>
-<polygon points="196.8,279.6 205.6,275.3 205.6,269.3 196.8,273.6" fill="#2b3446" opacity="1"/>
-<polygon points="212.5,271.8 221.3,267.4 221.3,261.4 212.5,265.8" fill="#2b3446" opacity="1"/>
-<polygon class="on" style="animation-delay:1.4s" points="153.1,254.4 161.9,258.8 161.9,252.8 153.1,248.4" fill="#ffd866" opacity="1"/>
-<polygon points="168.8,262.3 177.6,266.6 177.6,260.6 168.8,256.3" fill="#2b3446" opacity="1"/>
-<polygon class="on" style="animation-delay:3.1s" points="196.8,266.6 205.6,262.3 205.6,256.3 196.8,260.6" fill="#ffd866" opacity="1"/>
-<polygon points="212.5,258.8 221.3,254.4 221.3,248.4 212.5,252.8" fill="#ffd866" opacity="1"/>
-<polygon points="153.1,241.4 161.9,245.8 161.9,239.8 153.1,235.4" fill="#ffd866" opacity="1"/>
+<polygon points="168.8,275.3 177.6,279.6 177.6,273.6 168.8,269.3" fill="#2b3446" opacity="1"/>
+<polygon points="196.8,279.6 205.6,275.3 205.6,269.3 196.8,273.6" fill="#ffd866" opacity="1"/>
+<polygon class="on" style="animation-delay:1.1s" points="212.5,271.8 221.3,267.4 221.3,261.4 212.5,265.8" fill="#ffd866" opacity="1"/>
+<polygon points="153.1,254.4 161.9,258.8 161.9,252.8 153.1,248.4" fill="#2b3446" opacity="1"/>
+<polygon points="168.8,262.3 177.6,266.6 177.6,260.6 168.8,256.3" fill="#ffd866" opacity="1"/>
+<polygon points="196.8,266.6 205.6,262.3 205.6,256.3 196.8,260.6" fill="#ffd866" opacity="1"/>
+<polygon points="212.5,258.8 221.3,254.4 221.3,248.4 212.5,252.8" fill="#2b3446" opacity="1"/>
+<polygon points="153.1,241.4 161.9,245.8 161.9,239.8 153.1,235.4" fill="#2b3446" opacity="1"/>
 <polygon points="168.8,249.3 177.6,253.6 177.6,247.6 168.8,243.3" fill="#2b3446" opacity="1"/>
-<polygon points="196.8,253.6 205.6,249.3 205.6,243.3 196.8,247.6" fill="#ffd866" opacity="1"/>
-<polygon points="212.5,245.8 221.3,241.4 221.3,235.4 212.5,239.8" fill="#ffd866" opacity="1"/>
+<polygon points="196.8,253.6 205.6,249.3 205.6,243.3 196.8,247.6" fill="#2b3446" opacity="1"/>
+<polygon points="212.5,245.8 221.3,241.4 221.3,235.4 212.5,239.8" fill="#2b3446" opacity="1"/>
 <polygon points="153.1,228.4 161.9,232.8 161.9,226.8 153.1,222.4" fill="#2b3446" opacity="1"/>
-<polygon points="168.8,236.3 177.6,240.6 177.6,234.6 168.8,230.3" fill="#ffd866" opacity="1"/>
-<polygon points="196.8,240.6 205.6,236.3 205.6,230.3 196.8,234.6" fill="#2b3446" opacity="1"/>
-<polygon points="212.5,232.8 221.3,228.4 221.3,222.4 212.5,226.8" fill="#ffd866" opacity="1"/>
+<polygon points="168.8,236.3 177.6,240.6 177.6,234.6 168.8,230.3" fill="#2b3446" opacity="1"/>
+<polygon points="196.8,240.6 205.6,236.3 205.6,230.3 196.8,234.6" fill="#ffd866" opacity="1"/>
+<polygon class="on" style="animation-delay:1.4s" points="212.5,232.8 221.3,228.4 221.3,222.4 212.5,226.8" fill="#ffd866" opacity="1"/>
 <polygon points="153.1,215.4 161.9,219.8 161.9,213.8 153.1,209.4" fill="#ffd866" opacity="1"/>
 <polygon points="168.8,223.3 177.6,227.6 177.6,221.6 168.8,217.3" fill="#2b3446" opacity="1"/>
-<polygon class="on" style="animation-delay:0.4s" points="196.8,227.6 205.6,223.3 205.6,217.3 196.8,221.6" fill="#ffd866" opacity="1"/>
+<polygon points="196.8,227.6 205.6,223.3 205.6,217.3 196.8,221.6" fill="#2b3446" opacity="1"/>
 <polygon points="212.5,219.8 221.3,215.4 221.3,209.4 212.5,213.8" fill="#2b3446" opacity="1"/>
+<polygon class="on" style="animation-delay:3.1s" points="153.1,202.4 161.9,206.8 161.9,200.8 153.1,196.4" fill="#ffd866" opacity="1"/>
+<polygon points="168.8,210.3 177.6,214.6 177.6,208.6 168.8,204.3" fill="#2b3446" opacity="1"/>
+<polygon points="196.8,214.6 205.6,210.3 205.6,204.3 196.8,208.6" fill="#ffd866" opacity="1"/>
+<polygon points="212.5,206.8 221.3,202.4 221.3,196.4 212.5,200.8" fill="#2b3446" opacity="1"/>
 </g>
-<g><title>WB-OZON-AI-TEAM: 14 коммитов, Python</title>
-<polygon points="290.7,337.6 334.4,359.5 334.4,215 290.7,193.1" fill="#28567c"/>
-<polygon points="334.4,359.5 378.1,337.6 378.1,193.1 334.4,215" fill="#1b3953"/>
-<polygon points="334.4,171.3 378.1,193.1 334.4,215 290.7,193.1" fill="#729cc0"/>
-<polygon points="300.3,332.4 309.1,336.8 309.1,330.8 300.3,326.4" fill="#2b3446" opacity="1"/>
-<polygon points="316,340.3 324.8,344.6 324.8,338.6 316,334.3" fill="#2b3446" opacity="1"/>
-<polygon class="on" style="animation-delay:0.9s" points="344,344.6 352.8,340.3 352.8,334.3 344,338.6" fill="#ffd866" opacity="1"/>
-<polygon points="359.7,336.8 368.5,332.4 368.5,326.4 359.7,330.8" fill="#ffd866" opacity="1"/>
+<g><title>Poizon-parsing: 16 коммитов, Python</title>
+<polygon points="290.7,337.6 334.4,359.5 334.4,209.5 290.7,187.7" fill="#28567c"/>
+<polygon points="334.4,359.5 378.1,337.6 378.1,187.7 334.4,209.5" fill="#1b3953"/>
+<polygon points="334.4,165.8 378.1,187.7 334.4,209.5 290.7,187.7" fill="#729cc0"/>
+<polygon points="300.3,332.4 309.1,336.8 309.1,330.8 300.3,326.4" fill="#ffd866" opacity="1"/>
+<polygon points="316,340.3 324.8,344.6 324.8,338.6 316,334.3" fill="#ffd866" opacity="1"/>
+<polygon points="344,344.6 352.8,340.3 352.8,334.3 344,338.6" fill="#2b3446" opacity="1"/>
+<polygon points="359.7,336.8 368.5,332.4 368.5,326.4 359.7,330.8" fill="#2b3446" opacity="1"/>
 <polygon points="300.3,319.4 309.1,323.8 309.1,317.8 300.3,313.4" fill="#ffd866" opacity="1"/>
-<polygon points="316,327.3 324.8,331.6 324.8,325.6 316,321.3" fill="#2b3446" opacity="1"/>
-<polygon class="on" style="animation-delay:1.9s" points="344,331.6 352.8,327.3 352.8,321.3 344,325.6" fill="#ffd866" opacity="1"/>
+<polygon points="316,327.3 324.8,331.6 324.8,325.6 316,321.3" fill="#ffd866" opacity="1"/>
+<polygon points="344,331.6 352.8,327.3 352.8,321.3 344,325.6" fill="#2b3446" opacity="1"/>
 <polygon points="359.7,323.8 368.5,319.4 368.5,313.4 359.7,317.8" fill="#2b3446" opacity="1"/>
-<polygon points="300.3,306.4 309.1,310.8 309.1,304.8 300.3,300.4" fill="#2b3446" opacity="1"/>
-<polygon points="316,314.3 324.8,318.6 324.8,312.6 316,308.3" fill="#ffd866" opacity="1"/>
-<polygon points="344,318.6 352.8,314.3 352.8,308.3 344,312.6" fill="#ffd866" opacity="1"/>
-<polygon points="359.7,310.8 368.5,306.4 368.5,300.4 359.7,304.8" fill="#ffd866" opacity="1"/>
+<polygon class="on" style="animation-delay:3.9s" points="300.3,306.4 309.1,310.8 309.1,304.8 300.3,300.4" fill="#ffd866" opacity="1"/>
+<polygon class="on" style="animation-delay:1.5s" points="316,314.3 324.8,318.6 324.8,312.6 316,308.3" fill="#ffd866" opacity="1"/>
+<polygon points="344,318.6 352.8,314.3 352.8,308.3 344,312.6" fill="#2b3446" opacity="1"/>
+<polygon points="359.7,310.8 368.5,306.4 368.5,300.4 359.7,304.8" fill="#2b3446" opacity="1"/>
 <polygon points="300.3,293.4 309.1,297.8 309.1,291.8 300.3,287.4" fill="#2b3446" opacity="1"/>
 <polygon points="316,301.3 324.8,305.6 324.8,299.6 316,295.3" fill="#2b3446" opacity="1"/>
 <polygon points="344,305.6 352.8,301.3 352.8,295.3 344,299.6" fill="#2b3446" opacity="1"/>
-<polygon points="359.7,297.8 368.5,293.4 368.5,287.4 359.7,291.8" fill="#2b3446" opacity="1"/>
-<polygon points="300.3,280.4 309.1,284.8 309.1,278.8 300.3,274.4" fill="#2b3446" opacity="1"/>
-<polygon class="on" style="animation-delay:0.6s" points="316,288.3 324.8,292.6 324.8,286.6 316,282.3" fill="#ffd866" opacity="1"/>
+<polygon points="359.7,297.8 368.5,293.4 368.5,287.4 359.7,291.8" fill="#ffd866" opacity="1"/>
+<polygon points="300.3,280.4 309.1,284.8 309.1,278.8 300.3,274.4" fill="#ffd866" opacity="1"/>
+<polygon points="316,288.3 324.8,292.6 324.8,286.6 316,282.3" fill="#2b3446" opacity="1"/>
 <polygon points="344,292.6 352.8,288.3 352.8,282.3 344,286.6" fill="#2b3446" opacity="1"/>
 <polygon points="359.7,284.8 368.5,280.4 368.5,274.4 359.7,278.8" fill="#ffd866" opacity="1"/>
 <polygon points="300.3,267.4 309.1,271.8 309.1,265.8 300.3,261.4" fill="#2b3446" opacity="1"/>
-<polygon points="316,275.3 324.8,279.6 324.8,273.6 316,269.3" fill="#2b3446" opacity="1"/>
-<polygon points="344,279.6 352.8,275.3 352.8,269.3 344,273.6" fill="#ffd866" opacity="1"/>
-<polygon class="on" style="animation-delay:1.1s" points="359.7,271.8 368.5,267.4 368.5,261.4 359.7,265.8" fill="#ffd866" opacity="1"/>
-<polygon points="300.3,254.4 309.1,258.8 309.1,252.8 300.3,248.4" fill="#2b3446" opacity="1"/>
-<polygon points="316,262.3 324.8,266.6 324.8,260.6 316,256.3" fill="#ffd866" opacity="1"/>
-<polygon points="344,266.6 352.8,262.3 352.8,256.3 344,260.6" fill="#ffd866" opacity="1"/>
-<polygon points="359.7,258.8 368.5,254.4 368.5,248.4 359.7,252.8" fill="#2b3446" opacity="1"/>
-<polygon points="300.3,241.4 309.1,245.8 309.1,239.8 300.3,235.4" fill="#2b3446" opacity="1"/>
+<polygon points="316,275.3 324.8,279.6 324.8,273.6 316,269.3" fill="#ffd866" opacity="1"/>
+<polygon points="344,279.6 352.8,275.3 352.8,269.3 344,273.6" fill="#2b3446" opacity="1"/>
+<polygon points="359.7,271.8 368.5,267.4 368.5,261.4 359.7,265.8" fill="#2b3446" opacity="1"/>
+<polygon class="on" style="animation-delay:1.4s" points="300.3,254.4 309.1,258.8 309.1,252.8 300.3,248.4" fill="#ffd866" opacity="1"/>
+<polygon points="316,262.3 324.8,266.6 324.8,260.6 316,256.3" fill="#2b3446" opacity="1"/>
+<polygon class="on" style="animation-delay:3.1s" points="344,266.6 352.8,262.3 352.8,256.3 344,260.6" fill="#ffd866" opacity="1"/>
+<polygon points="359.7,258.8 368.5,254.4 368.5,248.4 359.7,252.8" fill="#ffd866" opacity="1"/>
+<polygon points="300.3,241.4 309.1,245.8 309.1,239.8 300.3,235.4" fill="#ffd866" opacity="1"/>
 <polygon points="316,249.3 324.8,253.6 324.8,247.6 316,243.3" fill="#2b3446" opacity="1"/>
-<polygon points="344,253.6 352.8,249.3 352.8,243.3 344,247.6" fill="#2b3446" opacity="1"/>
-<polygon points="359.7,245.8 368.5,241.4 368.5,235.4 359.7,239.8" fill="#2b3446" opacity="1"/>
+<polygon points="344,253.6 352.8,249.3 352.8,243.3 344,247.6" fill="#ffd866" opacity="1"/>
+<polygon points="359.7,245.8 368.5,241.4 368.5,235.4 359.7,239.8" fill="#ffd866" opacity="1"/>
 <polygon points="300.3,228.4 309.1,232.8 309.1,226.8 300.3,222.4" fill="#2b3446" opacity="1"/>
-<polygon points="316,236.3 324.8,240.6 324.8,234.6 316,230.3" fill="#2b3446" opacity="1"/>
-<polygon points="344,240.6 352.8,236.3 352.8,230.3 344,234.6" fill="#ffd866" opacity="1"/>
-<polygon class="on" style="animation-delay:1.4s" points="359.7,232.8 368.5,228.4 368.5,222.4 359.7,226.8" fill="#ffd866" opacity="1"/>
+<polygon points="316,236.3 324.8,240.6 324.8,234.6 316,230.3" fill="#ffd866" opacity="1"/>
+<polygon points="344,240.6 352.8,236.3 352.8,230.3 344,234.6" fill="#2b3446" opacity="1"/>
+<polygon points="359.7,232.8 368.5,228.4 368.5,222.4 359.7,226.8" fill="#ffd866" opacity="1"/>
 <polygon points="300.3,215.4 309.1,219.8 309.1,213.8 300.3,209.4" fill="#ffd866" opacity="1"/>
 <polygon points="316,223.3 324.8,227.6 324.8,221.6 316,217.3" fill="#2b3446" opacity="1"/>
-<polygon points="344,227.6 352.8,223.3 352.8,217.3 344,221.6" fill="#2b3446" opacity="1"/>
+<polygon class="on" style="animation-delay:0.4s" points="344,227.6 352.8,223.3 352.8,217.3 344,221.6" fill="#ffd866" opacity="1"/>
 <polygon points="359.7,219.8 368.5,215.4 368.5,209.4 359.7,213.8" fill="#2b3446" opacity="1"/>
 </g>
 <g><title>Our-Private-Universe: 8 коммитов, TypeScript</title>
-<polygon points="217.1,374.4 260.8,396.3 260.8,281.7 217.1,259.8" fill="#255a95"/>
-<polygon points="260.8,396.3 304.5,374.4 304.5,259.8 260.8,281.7" fill="#193c63"/>
-<polygon points="260.8,238 304.5,259.8 260.8,281.7 217.1,259.8" fill="#6fa1d7"/>
+<polygon points="217.1,374.4 260.8,396.3 260.8,283.8 217.1,261.9" fill="#255a95"/>
+<polygon points="260.8,396.3 304.5,374.4 304.5,261.9 260.8,283.8" fill="#193c63"/>
+<polygon points="260.8,240.1 304.5,261.9 260.8,283.8 217.1,261.9" fill="#6fa1d7"/>
 <polygon points="226.7,369.2 235.5,373.6 235.5,367.6 226.7,363.2" fill="#2b3446" opacity="1"/>
 <polygon points="242.4,377.1 251.2,381.4 251.2,375.4 242.4,371.1" fill="#2b3446" opacity="1"/>
 <polygon points="270.4,381.4 279.2,377.1 279.2,371.1 270.4,375.4" fill="#2b3446" opacity="1"/>
@@ -238,10 +242,10 @@
 <polygon points="270.4,290.4 279.2,286.1 279.2,280.1 270.4,284.4" fill="#ffd866" opacity="1"/>
 <polygon points="286.1,282.6 294.9,278.2 294.9,272.2 286.1,276.6" fill="#2b3446" opacity="1"/>
 </g>
-<g><title>subscription-hunter: 6 коммитов, Python</title>
-<polygon points="69.9,374.4 113.6,396.3 113.6,294.1 69.9,272.2" fill="#28567c"/>
-<polygon points="113.6,396.3 157.3,374.4 157.3,272.2 113.6,294.1" fill="#1b3953"/>
-<polygon points="113.6,250.4 157.3,272.2 113.6,294.1 69.9,272.2" fill="#729cc0"/>
+<g><title>subscription-hunter: 7 коммитов, Python</title>
+<polygon points="69.9,374.4 113.6,396.3 113.6,289.6 69.9,267.8" fill="#28567c"/>
+<polygon points="113.6,396.3 157.3,374.4 157.3,267.8 113.6,289.6" fill="#1b3953"/>
+<polygon points="113.6,245.9 157.3,267.8 113.6,289.6 69.9,267.8" fill="#729cc0"/>
 <polygon points="79.5,369.2 88.3,373.6 88.3,367.6 79.5,363.2" fill="#2b3446" opacity="1"/>
 <polygon points="95.2,377.1 104,381.4 104,375.4 95.2,371.1" fill="#2b3446" opacity="1"/>
 <polygon points="123.2,381.4 132,377.1 132,371.1 123.2,375.4" fill="#2b3446" opacity="1"/>
@@ -272,9 +276,9 @@
 <polygon points="138.9,295.6 147.7,291.2 147.7,285.2 138.9,289.6" fill="#2b3446" opacity="1"/>
 </g>
 <g><title>nalog-helper: 4 коммита, JavaScript</title>
-<polygon points="364.3,374.4 408,396.3 408,308.8 364.3,286.9" fill="#b5a844"/>
-<polygon points="408,396.3 451.7,374.4 451.7,286.9 408,308.8" fill="#79702d"/>
-<polygon points="408,265.1 451.7,286.9 408,308.8 364.3,286.9" fill="#f5e98c"/>
+<polygon points="364.3,374.4 408,396.3 408,310.3 364.3,288.4" fill="#b5a844"/>
+<polygon points="408,396.3 451.7,374.4 451.7,288.4 408,310.3" fill="#79702d"/>
+<polygon points="408,266.6 451.7,288.4 408,310.3 364.3,288.4" fill="#f5e98c"/>
 <polygon points="373.9,369.2 382.7,373.6 382.7,367.6 373.9,363.2" fill="#2b3446" opacity="1"/>
 <polygon points="389.6,377.1 398.4,381.4 398.4,375.4 389.6,371.1" fill="#ffd866" opacity="1"/>
 <polygon points="417.6,381.4 426.4,377.1 426.4,371.1 417.6,375.4" fill="#2b3446" opacity="1"/>
@@ -300,39 +304,43 @@
 <polygon points="417.6,316.4 426.4,312.1 426.4,306.1 417.6,310.4" fill="#2b3446" opacity="1"/>
 <polygon points="433.3,308.6 442.1,304.2 442.1,298.2 433.3,302.6" fill="#ffd866" opacity="1"/>
 </g>
-<g><title>github-city: 1 коммит, JavaScript</title>
-<polygon points="143.5,411.2 187.2,433.1 187.2,378.3 143.5,356.5" fill="#b5a844"/>
-<polygon points="187.2,433.1 230.9,411.2 230.9,356.5 187.2,378.3" fill="#79702d"/>
-<polygon points="187.2,334.6 230.9,356.5 187.2,378.3 143.5,356.5" fill="#f5e98c"/>
-<polygon points="153.1,406 161.9,410.4 161.9,404.4 153.1,400" fill="#ffd866" opacity="1"/>
-<polygon points="168.8,413.9 177.6,418.2 177.6,412.2 168.8,407.9" fill="#ffd866" opacity="1"/>
-<polygon points="196.8,418.2 205.6,413.9 205.6,407.9 196.8,412.2" fill="#2b3446" opacity="1"/>
-<polygon class="on" style="animation-delay:2.3s" points="212.5,410.4 221.3,406 221.3,400 212.5,404.4" fill="#ffd866" opacity="1"/>
-<polygon points="153.1,393 161.9,397.4 161.9,391.4 153.1,387" fill="#ffd866" opacity="1"/>
-<polygon points="168.8,400.9 177.6,405.2 177.6,399.2 168.8,394.9" fill="#ffd866" opacity="1"/>
-<polygon points="196.8,405.2 205.6,400.9 205.6,394.9 196.8,399.2" fill="#2b3446" opacity="1"/>
-<polygon points="212.5,397.4 221.3,393 221.3,387 212.5,391.4" fill="#ffd866" opacity="1"/>
-<polygon points="153.1,380 161.9,384.4 161.9,378.4 153.1,374" fill="#2b3446" opacity="1"/>
+<g><title>money-wrapped: 2 коммита, JavaScript</title>
+<polygon points="143.5,411.2 187.2,433.1 187.2,365.8 143.5,344" fill="#b5a844"/>
+<polygon points="187.2,433.1 230.9,411.2 230.9,344 187.2,365.8" fill="#79702d"/>
+<polygon points="187.2,322.1 230.9,344 187.2,365.8 143.5,344" fill="#f5e98c"/>
+<polygon points="153.1,406 161.9,410.4 161.9,404.4 153.1,400" fill="#2b3446" opacity="1"/>
+<polygon points="168.8,413.9 177.6,418.2 177.6,412.2 168.8,407.9" fill="#2b3446" opacity="1"/>
+<polygon points="196.8,418.2 205.6,413.9 205.6,407.9 196.8,412.2" fill="#ffd866" opacity="1"/>
+<polygon points="212.5,410.4 221.3,406 221.3,400 212.5,404.4" fill="#2b3446" opacity="1"/>
+<polygon points="153.1,393 161.9,397.4 161.9,391.4 153.1,387" fill="#2b3446" opacity="1"/>
+<polygon points="168.8,400.9 177.6,405.2 177.6,399.2 168.8,394.9" fill="#2b3446" opacity="1"/>
+<polygon points="196.8,405.2 205.6,400.9 205.6,394.9 196.8,399.2" fill="#ffd866" opacity="1"/>
+<polygon points="212.5,397.4 221.3,393 221.3,387 212.5,391.4" fill="#2b3446" opacity="1"/>
+<polygon points="153.1,380 161.9,384.4 161.9,378.4 153.1,374" fill="#ffd866" opacity="1"/>
 <polygon points="168.8,387.9 177.6,392.2 177.6,386.2 168.8,381.9" fill="#2b3446" opacity="1"/>
-<polygon class="on" style="animation-delay:1.9s" points="196.8,392.2 205.6,387.9 205.6,381.9 196.8,386.2" fill="#ffd866" opacity="1"/>
-<polygon points="212.5,384.4 221.3,380 221.3,374 212.5,378.4" fill="#2b3446" opacity="1"/>
+<polygon class="on" style="animation-delay:3s" points="196.8,392.2 205.6,387.9 205.6,381.9 196.8,386.2" fill="#ffd866" opacity="1"/>
+<polygon points="212.5,384.4 221.3,380 221.3,374 212.5,378.4" fill="#ffd866" opacity="1"/>
+<polygon points="153.1,367 161.9,371.4 161.9,365.4 153.1,361" fill="#2b3446" opacity="1"/>
+<polygon points="168.8,374.9 177.6,379.2 177.6,373.2 168.8,368.9" fill="#ffd866" opacity="1"/>
+<polygon points="196.8,379.2 205.6,374.9 205.6,368.9 196.8,373.2" fill="#ffd866" opacity="1"/>
+<polygon points="212.5,371.4 221.3,367 221.3,361 212.5,365.4" fill="#ffd866" opacity="1"/>
 </g>
-<g><title>money-wrapped: 1 коммит, JavaScript</title>
-<polygon points="290.7,411.2 334.4,433.1 334.4,378.3 290.7,356.5" fill="#b5a844"/>
-<polygon points="334.4,433.1 378.1,411.2 378.1,356.5 334.4,378.3" fill="#79702d"/>
-<polygon points="334.4,334.6 378.1,356.5 334.4,378.3 290.7,356.5" fill="#f5e98c"/>
-<polygon points="300.3,406 309.1,410.4 309.1,404.4 300.3,400" fill="#2b3446" opacity="1"/>
-<polygon points="316,413.9 324.8,418.2 324.8,412.2 316,407.9" fill="#2b3446" opacity="1"/>
-<polygon points="344,418.2 352.8,413.9 352.8,407.9 344,412.2" fill="#ffd866" opacity="1"/>
-<polygon points="359.7,410.4 368.5,406 368.5,400 359.7,404.4" fill="#2b3446" opacity="1"/>
-<polygon points="300.3,393 309.1,397.4 309.1,391.4 300.3,387" fill="#2b3446" opacity="1"/>
-<polygon points="316,400.9 324.8,405.2 324.8,399.2 316,394.9" fill="#2b3446" opacity="1"/>
-<polygon points="344,405.2 352.8,400.9 352.8,394.9 344,399.2" fill="#ffd866" opacity="1"/>
-<polygon points="359.7,397.4 368.5,393 368.5,387 359.7,391.4" fill="#2b3446" opacity="1"/>
-<polygon points="300.3,380 309.1,384.4 309.1,378.4 300.3,374" fill="#ffd866" opacity="1"/>
+<g><title>github-city: 1 коммит, JavaScript</title>
+<polygon points="290.7,411.2 334.4,433.1 334.4,379.1 290.7,357.2" fill="#b5a844"/>
+<polygon points="334.4,433.1 378.1,411.2 378.1,357.2 334.4,379.1" fill="#79702d"/>
+<polygon points="334.4,335.4 378.1,357.2 334.4,379.1 290.7,357.2" fill="#f5e98c"/>
+<polygon points="300.3,406 309.1,410.4 309.1,404.4 300.3,400" fill="#ffd866" opacity="1"/>
+<polygon points="316,413.9 324.8,418.2 324.8,412.2 316,407.9" fill="#ffd866" opacity="1"/>
+<polygon points="344,418.2 352.8,413.9 352.8,407.9 344,412.2" fill="#2b3446" opacity="1"/>
+<polygon class="on" style="animation-delay:2.3s" points="359.7,410.4 368.5,406 368.5,400 359.7,404.4" fill="#ffd866" opacity="1"/>
+<polygon points="300.3,393 309.1,397.4 309.1,391.4 300.3,387" fill="#ffd866" opacity="1"/>
+<polygon points="316,400.9 324.8,405.2 324.8,399.2 316,394.9" fill="#ffd866" opacity="1"/>
+<polygon points="344,405.2 352.8,400.9 352.8,394.9 344,399.2" fill="#2b3446" opacity="1"/>
+<polygon points="359.7,397.4 368.5,393 368.5,387 359.7,391.4" fill="#ffd866" opacity="1"/>
+<polygon points="300.3,380 309.1,384.4 309.1,378.4 300.3,374" fill="#2b3446" opacity="1"/>
 <polygon points="316,387.9 324.8,392.2 324.8,386.2 316,381.9" fill="#2b3446" opacity="1"/>
-<polygon class="on" style="animation-delay:3s" points="344,392.2 352.8,387.9 352.8,381.9 344,386.2" fill="#ffd866" opacity="1"/>
-<polygon points="359.7,384.4 368.5,380 368.5,374 359.7,378.4" fill="#ffd866" opacity="1"/>
+<polygon class="on" style="animation-delay:1.9s" points="344,392.2 352.8,387.9 352.8,381.9 344,386.2" fill="#ffd866" opacity="1"/>
+<polygon points="359.7,384.4 368.5,380 368.5,374 359.7,378.4" fill="#2b3446" opacity="1"/>
 </g>
 <rect x="271.2" y="431.7" width="3" height="6" fill="#5c4632"/>
 <polygon points="272.7,416.7 279.7,432.7 272.7,434.7" fill="#215a35"/>
@@ -344,19 +352,19 @@
 <polygon points="253.5,441.8 260.5,460.7 253.5,462.7" fill="#215a35"/>
 <polygon points="253.5,441.8 246.5,460.7 253.5,462.7" fill="#2f7a49"/>
 <text class="lbl" x="260.8" y="112.8" text-anchor="middle">flipper-os</text>
-<text class="lbl cnt" x="260.8" y="124.8" text-anchor="middle">21 коммит</text>
-<text class="lbl" x="187.2" y="172.8" text-anchor="middle">Poizon-parsing</text>
-<text class="lbl cnt" x="187.2" y="184.8" text-anchor="middle">15 коммитов</text>
-<text class="lbl" x="334.4" y="177.1" text-anchor="middle">WB-OZON-AI-TEAM</text>
-<text class="lbl cnt" x="334.4" y="189.1" text-anchor="middle">14 коммитов</text>
-<text class="lbl" x="260.8" y="243.8" text-anchor="middle">Our-Private-Universe</text>
-<text class="lbl cnt" x="260.8" y="255.8" text-anchor="middle">8 коммитов</text>
-<text class="lbl" x="113.6" y="256.2" text-anchor="middle">subscription-hunter</text>
-<text class="lbl cnt" x="113.6" y="268.2" text-anchor="middle">6 коммитов</text>
-<text class="lbl" x="408" y="270.9" text-anchor="middle">nalog-helper</text>
-<text class="lbl cnt" x="408" y="282.9" text-anchor="middle">4 коммита</text>
-<text class="lbl" x="187.2" y="340.5" text-anchor="middle">github-city</text>
-<text class="lbl cnt" x="187.2" y="352.5" text-anchor="middle">1 коммит</text>
-<text class="lbl" x="334.4" y="340.5" text-anchor="middle">money-wrapped</text>
-<text class="lbl cnt" x="334.4" y="352.5" text-anchor="middle">1 коммит</text>
+<text class="lbl cnt" x="260.8" y="124.8" text-anchor="middle">22 коммита</text>
+<text class="lbl" x="187.2" y="167.7" text-anchor="middle">WB-OZON-AI-TEAM</text>
+<text class="lbl cnt" x="187.2" y="179.7" text-anchor="middle">17 коммитов</text>
+<text class="lbl" x="334.4" y="171.7" text-anchor="middle">Poizon-parsing</text>
+<text class="lbl cnt" x="334.4" y="183.7" text-anchor="middle">16 коммитов</text>
+<text class="lbl" x="260.8" y="245.9" text-anchor="middle">Our-Private-Universe</text>
+<text class="lbl cnt" x="260.8" y="257.9" text-anchor="middle">8 коммитов</text>
+<text class="lbl" x="113.6" y="251.8" text-anchor="middle">subscription-hunter</text>
+<text class="lbl cnt" x="113.6" y="263.8" text-anchor="middle">7 коммитов</text>
+<text class="lbl" x="408" y="272.4" text-anchor="middle">nalog-helper</text>
+<text class="lbl cnt" x="408" y="284.4" text-anchor="middle">4 коммита</text>
+<text class="lbl" x="187.2" y="328" text-anchor="middle">money-wrapped</text>
+<text class="lbl cnt" x="187.2" y="340" text-anchor="middle">2 коммита</text>
+<text class="lbl" x="334.4" y="341.2" text-anchor="middle">github-city</text>
+<text class="lbl cnt" x="334.4" y="353.2" text-anchor="middle">1 коммит</text>
 </svg>
