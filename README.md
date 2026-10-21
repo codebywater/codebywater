@@ -6,12 +6,21 @@
 Личные финансы и налоги, маркетплейсы, ИИ-агенты для Claude Code, железо.
 
 [![Профиль](https://img.shields.io/badge/GitHub-codebywater-181717?logo=github)](https://github.com/codebywater)
-[![Проекты](https://img.shields.io/badge/open--source-6_проектов-2f45c8)](https://github.com/codebywater?tab=repositories)
+[![Проекты](https://img.shields.io/badge/open--source-7_проектов-2f45c8)](https://github.com/codebywater?tab=repositories)
 [![Лицензия](https://img.shields.io/badge/лицензии-MIT_%7C_GPL--3.0-146c43)](#)
 
 </div>
 
 ---
+
+## 🏙 Мой город репозиториев
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/city-dark.svg">
+  <img alt="Город репозиториев codebywater: высота дома — число коммитов" src="assets/city-light.svg">
+</picture>
+
+<sub>Каждый дом — репозиторий, высота — число коммитов. Город перестраивается каждый день с помощью [GitHub City](https://github.com/codebywater/github-city).</sub>
 
 ## 👋 Обо мне
 
@@ -48,6 +57,12 @@
 **[Our-Private-Universe](https://github.com/codebywater/Our-Private-Universe)** · [▶ Демо](https://codebywater.github.io/Our-Private-Universe/)
 Приватный архив воспоминаний для двоих: фото, таймлайн и письма, которые открываются в назначенную дату. Замок по времени работает на уровне базы данных (Postgres RLS), а не только в интерфейсе.
 `Next.js` · `TypeScript` · `Supabase` · `Tailwind`
+
+### 🛠 Для разработчиков
+
+**[github-city](https://github.com/codebywater/github-city)**
+Изометрический город из репозиториев для README профиля: высота дома — число коммитов, цвет — язык, днём солнце, ночью горят окна. Подключается как GitHub Action; город выше на этой странице нарисован им.
+`JavaScript` · `GitHub Action` · `SVG` · `без зависимостей`
 
 ### 🐬 Железо
 
