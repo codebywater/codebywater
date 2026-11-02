@@ -13,3 +13,4 @@ jobs:
       - uses: codebywater/github-city@v1
         with:
           lang: ru
+          exclude: .github

@@ -22,6 +22,22 @@
 
 <sub>Каждый дом — репозиторий, высота — число коммитов. Город перестраивается каждый день с помощью [GitHub City](https://github.com/codebywater/github-city).</sub>
 
+## 🌍 In English
+
+I build open-source tools for personal and business money in Russia, plus a few things for developers. Web versions run entirely in your browser: your data stays on your device.
+
+| Project | What it does |
+|---|---|
+| [github-city](https://github.com/codebywater/github-city) | Your repositories as an isometric SVG city for your profile README (the one above). A GitHub Action with zero dependencies |
+| [vypiska](https://github.com/codebywater/vypiska) | Parses CSV bank statements of Russian banks into one list of transactions. JavaScript and Python with identical output |
+| [nalog-helper](https://github.com/codebywater/nalog-helper) | Taxes for Russian sole proprietors and the self-employed, from a bank statement |
+| [money-wrapped](https://github.com/codebywater/money-wrapped) | A "Spotify Wrapped" for your bank statement |
+| [subscription-hunter](https://github.com/codebywater/subscription-hunter) | Finds forgotten subscriptions in a bank statement |
+| [WB-OZON-AI-TEAM](https://github.com/codebywater/WB-OZON-AI-TEAM) | 15 AI skills and a unit economics calculator for Wildberries and Ozon sellers |
+| [Poizon-parsing](https://github.com/codebywater/Poizon-parsing) | Reads prices and sizes from the Dewu (Poizon) app on your phone. Not yet tested on a live device |
+| [Our-Private-Universe](https://github.com/codebywater/Our-Private-Universe) | A self-hosted private memory archive for two people |
+| [flipper-os](https://github.com/codebywater/flipper-os) | Custom Flipper Zero firmware based on Unleashed |
+
 ## 👋 Обо мне
 
 - 🛠 Пишу инструменты, которыми пользуюсь сам: от калькулятора налогов до прошивки для Flipper Zero.
