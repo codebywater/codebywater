@@ -48,7 +48,7 @@
 
 ### 🛒 Маркетплейсы
 
-**[WB-OZON-AI-TEAM](https://github.com/codebywater/WB-OZON-AI-TEAM)**\
+**[WB-OZON-AI-TEAM](https://github.com/codebywater/WB-OZON-AI-TEAM)** · [▶ Калькулятор юнит-экономики](https://codebywater.github.io/WB-OZON-AI-TEAM/)\
 ИИ-команда для селлеров Wildberries и Ozon: 15 скиллов, которые считают юнит-экономику, следят за ценами конкурентов, делают карточки и ТЗ на инфографику, отвечают на отзывы и вопросы покупателей.\
 `Claude Code` · `Codex` · `Cursor` · `Python`
 
